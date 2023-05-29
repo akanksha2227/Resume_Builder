@@ -2,12 +2,19 @@ const express = require('express');
 const app = express()
 const cors = require('cors');
 const port = 9999;
+const path = require('path');
 
 app.use(cors());
 app.use(express.static("services"));
 app.use(express.static("routes"));
 app.use(express.json());
 app.use(express.urlencoded({extended: true}));
+
+app.use(express.static(path.join(__dirname,'../Resume-Builder-with-React--main/build')));
+
+app.get('*',function(req,res){
+    res.sendFile(path.join(__dirname,'../Resume-Builder-with-React--main/build/index.html'));
+})
 
 const connection = require("./services/dbConnection");
 
