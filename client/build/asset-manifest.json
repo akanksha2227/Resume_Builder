@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.43fe63ad.css",
+    "main.js": "/static/js/main.ccb2de43.js",
+    "static/media/temp-4.png": "/static/media/temp-4.9f88aca388165a34b7bf.png",
+    "static/media/temp-3.png": "/static/media/temp-3.bf82bed38551494b28ea.png",
+    "static/media/footerbg.png": "/static/media/footerbg.f441054b40f035cb6162.png",
+    "static/media/temp-1.png": "/static/media/temp-1.3f6b11dadc9c25ed4469.png",
+    "static/media/jobseeker.jpg": "/static/media/jobseeker.ec74a4212b0d024bcd5f.jpg",
+    "static/media/temp-2.png": "/static/media/temp-2.0fb5531c91f8c9064da0.png",
+    "static/media/feattureCard1_open.svg": "/static/media/feattureCard1_open.00ba38489104ada3539e.svg",
+    "static/media/featureCard1_close.svg": "/static/media/featureCard1_close.d7ae70f3c6a41b06244a.svg",
+    "static/media/profile.jpg": "/static/media/profile.78249946c55cde18f473.jpg",
+    "static/media/langingImage.svg": "/static/media/langingImage.cd01397e92ad4ee7f1836534f8f258ae.svg",
+    "static/media/landingBodyImg.svg": "/static/media/landingBodyImg.625b6669ae9173d3e21c328bb4da2b1a.svg",
+    "static/media/featureCard3_open.svg": "/static/media/featureCard3_open.dcb118d4545a0edb11b3.svg",
+    "static/media/featureCard3_close.svg": "/static/media/featureCard3_close.d71042bb6df93e04b7af.svg",
+    "static/media/home-logo.png": "/static/media/home-logo.3452f3793afaa0470f77.png",
+    "static/media/featureCard2_open.svg": "/static/media/featureCard2_open.5ea92927944db68b8bbe.svg",
+    "static/media/featureCard2_close.svg": "/static/media/featureCard2_close.961f483c2c8bd9d79ce2.svg",
+    "static/media/hero.svg": "/static/media/hero.f8a0741c88add672b510dbc82123af67.svg",
+    "index.html": "/index.html",
+    "main.43fe63ad.css.map": "/static/css/main.43fe63ad.css.map",
+    "main.ccb2de43.js.map": "/static/js/main.ccb2de43.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.43fe63ad.css",
+    "static/js/main.ccb2de43.js"
+  ]
+}
