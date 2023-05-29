@@ -1,10 +1,10 @@
 const mysql = require('mysql2');
 
 var connection = mysql.createConnection({
-    host:"localhost",
-    database:"meta_resume",
-    user:"root",
-    password:"@kku12345"
+    host:"bmtulitd37comvx1px7f-mysql.services.clever-cloud.com",
+    database:"bmtulitd37comvx1px7f",
+    user:"urx8j1hmbztqnqm1",
+    password:"wL2SEYsFAP7h0N17iw30"
 });
 
 connection.connect(function(err){
