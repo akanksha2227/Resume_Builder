@@ -10,10 +10,10 @@ app.use(express.static("routes"));
 app.use(express.json());
 app.use(express.urlencoded({extended: true}));
 
-app.use(express.static(path.join(__dirname,'./build')));
+app.use(express.static(path.join(__dirname,'./opt/render/project/src/build')));
 
 app.get('*',function(req,res){
-    res.sendFile(path.join(__dirname,'./build/index.html'));
+    res.sendFile(path.join(__dirname,'./opt/render/project/src/build/index.html'));
 })
 
 const connection = require("./services/dbConnection");
